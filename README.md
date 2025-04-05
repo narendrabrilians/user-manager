@@ -1,6 +1,7 @@
 # User Manager
 
-A simple PHP & MySQL web project for learning purposes only.  
+A simple PHP & MySQL web project for learning purposes only.
+
 ⚠️ **Not secure for production use.**
 
 ## ✨ Features
@@ -18,22 +19,21 @@ A simple PHP & MySQL web project for learning purposes only.
 ## ⚙️ How to Run
 
 1. **Place Project in XAMPP htdocs**  
-   Move this folder into `htdocs`, for example:  
-   `C:\xampp\htdocs\user-manager`
+   Move this folder into `htdocs`, for example: `C:\xampp\htdocs\user-manager`
 
-2. **▶ Start Apache and MySQL**  
+2. **Start Apache and MySQL**  
    Open XAMPP Control Panel and start **Apache** and **MySQL**.
 
 3. **Run SQL Commands**  
    Run the commands in the `db.sql` file.
 
 4. **Create `uploads/` Folder**  
-   In the root of the project, create a folder named `uploads/`.  
+   In the root of the project, create a folder named `uploads/`.
+   
    Make sure it has proper write permissions.
 
 5. **Open the Website**  
-   Go to:  
-   `http://localhost/user-manager`
+   Go to: `http://localhost/user-manager`
 
 ## 📝 Notes
 
